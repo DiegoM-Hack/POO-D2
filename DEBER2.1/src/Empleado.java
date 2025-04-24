@@ -7,7 +7,7 @@ public class Empleado {
     // Constructor 
     public Empleado() {}
 
-    // Método para mostrar la información
+    // Métod para mostrar la información
     public void mostrarInformacion() {
         System.out.println("Nombre: " + nombre);
         System.out.println("Cargo: " + cargo);
