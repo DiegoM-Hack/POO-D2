@@ -16,7 +16,7 @@ public class EquipoFutbol {
         String nombre = sc.nextLine();
 
         System.out.print("Posición: ");
-        String posicion = sc.nextLine();
+        String posicion = sc.nextLine(); //Ingreso de texto por consola
 
         System.out.print("Edad: ");
         int edad = sc.nextInt();
@@ -33,7 +33,7 @@ public class EquipoFutbol {
         jugador1.mostrarInformacion();
         jugador2.mostrarInformacion();
         jugador3.mostrarInformacion();
-
+ //ejemplo de commit
         sc.close();
     }
 }
