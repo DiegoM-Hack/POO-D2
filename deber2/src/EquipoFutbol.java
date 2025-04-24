@@ -16,7 +16,7 @@ public class EquipoFutbol {
         String nombre = sc.nextLine();
 
         System.out.print("Posición: ");
-        String posicion = sc.nextLine();
+        String posicion = sc.nextLine(); //Ingreso de texto por consola
 
         System.out.print("Edad: ");
         int edad = sc.nextInt();
