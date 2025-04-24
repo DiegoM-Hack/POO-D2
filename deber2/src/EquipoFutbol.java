@@ -33,7 +33,7 @@ public class EquipoFutbol {
         jugador1.mostrarInformacion();
         jugador2.mostrarInformacion();
         jugador3.mostrarInformacion();
-
+ //ejemplo de commit
         sc.close();
     }
 }
