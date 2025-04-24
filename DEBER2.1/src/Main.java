@@ -34,7 +34,7 @@ public class Main {
         for (Empleado emp : empleados) {
             emp.mostrarInformacion();
         }
-
+   //este es ub ejemplo de commit
         sc.close();
     }
 }
