@@ -4,7 +4,7 @@ public class Empleado {
     double salario;
     String fechaIngreso;
 
-    // Constructor (opcional, se puede usar sin constructor también)
+    // Constructor 
     public Empleado() {}
 
     // Método para mostrar la información
